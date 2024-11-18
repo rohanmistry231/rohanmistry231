@@ -39,6 +39,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmistry231&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/rohanmistry231/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmistry231&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
 ---
 
 ### 🔗 Connect with Me
