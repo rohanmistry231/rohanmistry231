@@ -57,9 +57,3 @@
   <a href="https://github.com/rohanmistry231"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/rohan-mistry-493987202"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmistry231/rohanmistry231/main/assets/animation.gif" alt="Custom Animation"/>
-</p>
