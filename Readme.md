@@ -17,6 +17,25 @@
 
 ---
 
+### 🏆 Typing Skills
+I’m not just coding – I’m blazing across the keyboard! Here are my professional typing achievements on **MonkeyType**:
+- 🖋️ **Completed:** 101+ Levels  
+- ⚡ **Consistent WPM:** 100+ across all sections  
+- 🔥 **Highest WPM Stats:**  
+  - **10 words:** 170 WPM  
+  - **25 words:** 132 WPM  
+  - **50 words:** 104 WPM  
+  - **100 words:** 106 WPM  
+- 🎖️ **Leaderboard Ranks:**  
+  - **15 seconds:** Top 20.12% (Ranked 73,050th)  
+  - **60 seconds:** Top 14.56% (Ranked 52,136th)  
+- 🏆 Check out my typing achievements and stats:
+  [![Monkeytype Profile](https://img.shields.io/badge/Monkeytype-FFA500?style=for-the-badge&logo=typescript&logoColor=white)](https://monkeytype.com/profile/own231)
+
+Typing is more than just speed for me – it's precision, focus, and a skill I bring to my professional work.
+
+---
+
 ### 🛠️ Tech Stack
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
