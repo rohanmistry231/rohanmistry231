@@ -22,11 +22,6 @@
 I’m not just coding – I’m blazing across the keyboard! Here are my professional typing achievements on **MonkeyType**:
 - 🖋️ **Completed:** 101+ Levels  
 - ⚡ **Consistent WPM:** 100+ across all sections  
-- 🔥 **Highest WPM Stats:**  
-  - **10 words:** 170 WPM  
-  - **25 words:** 132 WPM  
-  - **50 words:** 104 WPM  
-  - **100 words:** 106 WPM  
 - 🎖️ **Leaderboard Ranks:**  
   - **15 seconds:** Top 20.12% (Ranked 73,050th)  
   - **60 seconds:** Top 14.56% (Ranked 52,136th)  
