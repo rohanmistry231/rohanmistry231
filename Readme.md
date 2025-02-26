@@ -53,17 +53,16 @@ Typing is more than just speed for me – it's precision, focus, and a skill I b
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmistry231&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmistry231&theme=radical" alt="GitHub Streak Stats" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/rohanmistry231/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmistry231&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmistry231&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmistry231&theme=github-dark-blue&hide_border=true" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmistry231&layout=compact&theme=github_dark&hide_border=true" width="300"/>
+</div>
 
 ---
 
