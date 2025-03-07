@@ -14,6 +14,7 @@
 - 🚀 My portfolio website: [**irohanportfolio.netlify.app**](https://irohanportfolio.netlify.app)
 - 🎯 Udemy Courses Tracking website: [**own-udemy-tracker.netlify.app**](https://own-udemy-tracker.netlify.app)
 - 🎨 AI Generated Wallpapers Website: [**own-walls-ai.netlify.app**](https://own-walls-ai.netlify.app)
+- 📝 Categorized Medium Stories Website: [**medi-hub.netlify.app**](https://medi-hub.netlify.app)
 - 💡 Looking for job opportunities to apply my skills and grow as a **professional developer**.
 
 ---
