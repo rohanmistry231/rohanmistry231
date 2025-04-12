@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Web+Development+Maestro;Creative+Tech+Visionary;Ready+to+Revolutionize+Tech!" alt="Typing Animation"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hire%20Me-Ready%20for%20AI%2FML%20Roles-00ff00?style=flat-square&logo=superpowers" alt="Hire Me"/>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Hire%20Me-Ready%20for%20AI%2FML%20Roles-808080?style=flat-square&logo=superpowers" alt="Hire Me"/>  
 </p>
 
 ---
