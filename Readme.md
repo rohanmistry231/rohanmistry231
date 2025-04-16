@@ -110,6 +110,11 @@ I wield a versatile stack to conquer AI/ML and web challenges:
 
 ---
 
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohanmistry231&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🔗 Let’s Build the Future Together!
 
 Ready to bring AI/ML innovation to your team? Let’s connect!
