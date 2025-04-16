@@ -115,6 +115,13 @@ I wield a versatile stack to conquer AI/ML and web challenges:
 
 ---
 
+## Github Activity
+<p align="center">
+  <img src="https://github.com/rohanmistry231/rohanmistry231/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
 ## 🔗 Let’s Build the Future Together!
 
 Ready to bring AI/ML innovation to your team? Let’s connect!
