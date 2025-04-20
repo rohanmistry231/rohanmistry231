@@ -2,7 +2,7 @@
 <h3 align="center">Building the Future with AI/ML and Web Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500¢er=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Web+Development+Expert;Creative+Tech+Visionary" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Web+Development+Maestro;Creative+Tech+Visionary;Ready+to+Revolutionize+Tech!" alt="Typing Animation"/>
 </p>
 
 <p align="center">  
@@ -98,17 +98,17 @@ I’m a problem-solver with a knack for innovation. Here’s why I stand out:
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmistry231&theme=radical&bg_color=1a1b27&color=85c1ff&line=85c1ff&point=c88cff&area=true&hide_border=true" width="100%"/>
+
+---
+
 ## 🏅 GitHub Trophies
 <!-- Placeholder for trophies, as they require external rendering -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohanmistry231&theme=onedark&no-frame=true" alt="Trophies"/>
 </p>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmistry231&theme=radical&bg_color=1a1b27&color=85c1ff&line=85c1ff&point=c88cff&area=true&hide_border=true" width="100%"/>
 
 ---
 
