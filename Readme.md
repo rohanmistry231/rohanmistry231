@@ -108,7 +108,7 @@ I’m a problem-solver with a knack for innovation. Here’s why I stand out:
 
 ## 📈 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmistry231&theme=radical&bg_color=1a1a1a&color=85c1ff&line=85c1ff&point=c88cff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmistry231&theme=radical&bg_color=1a1b27&color=85c1ff&line=85c1ff&point=c88cff&area=true&hide_border=true" width="100%"/>
 
 ---
 
