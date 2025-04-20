@@ -106,6 +106,12 @@ I’m a problem-solver with a knack for innovation. Here’s why I stand out:
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmistry231&theme=radical&bg_color=1a1a1a&color=85c1ff&line=85c1ff&point=c88cff&area=true&hide_border=true" width="100%"/>
+
+---
+
 ## 🐍 GitHub Activity
 <p align="center">
   <img src="https://github.com/rohanmistry231/rohanmistry231/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
