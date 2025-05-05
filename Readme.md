@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Hire%20Me-AI%2FML%20Roles-808080?style=flat-square&logo=superpowers" alt="Hire Me"/>  
+  <img src="https://img.shields.io/badge/Hire%20Me-AI%2FML%20Roles-07080?style=flat-square&logo=superpowers" alt="Hire Me"/>  
 </p>
 
 ---
@@ -15,11 +15,9 @@
 
 I'm **Rohan Mistry**, a passionate innovator blending **AI/ML** and **Web Development** to create impactful solutions. My goal? To craft intelligent systems and stunning web experiences that inspire.
 
-- 🎓 Pursuing a **Master's in Machine Learning and AI**, specializing in neural networks, NLP, and generative AI.
-- 🔬 Developing **AI/ML models** for health diagnostics, NLP, and automation.
+- 🎓 Pursuing a **Master's in Artificial Intelligence and Machine Learning**.
 - 🎨 Building **modern web apps** with React, Node.js, and great UX.
-- 🌱 Mastering **AI frameworks** (PyTorch, TensorFlow) and **web stacks** (MERN, TypeScript).
-- 🗂️ Explore my 60+ projects at [**RepoHub**](https://github.com/rohanmistry231/RepoHub).
+- 🗂️ Explore my 60+ repositories at [**RepoHub**](https://github.com/rohanmistry231/RepoHub).
 - 🚀 Showcasing my work:
   - 🌐 [**Portfolio**](https://irohanportfolio.netlify.app)
   - 🎯 [**Udemy Tracker**](https://own-udemy-tracker.netlify.app)
@@ -27,28 +25,6 @@ I'm **Rohan Mistry**, a passionate innovator blending **AI/ML** and **Web Develo
   - 📝 [**Medium Stories**](https://medi-hub.netlify.app)
   - ✨ [**AI WebStudio**](https://ai-webstudio.netlify.app)
 - 💼 Seeking **AI/ML roles** to drive innovation.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="AI Animation"/>
-</p>
-
----
-
-## 🎯 Why I’m Your Next AI/ML Hire
-
-I’m a problem-solver with a knack for innovation. Here’s why I stand out:
-
-- **AI/ML Expertise**: Built 10+ ML pipelines, including health diagnostics and NLP models.
-- **Web Development**: Created 20+ web apps with React, TypeScript, and Node.js.
-- **Quick Learner**: Mastered PyTorch, TensorFlow, and Terraform rapidly.
-- **Communicator**: My [**Medium blogs**](https://medium.com/@rohanmistry231) simplify complex AI topics.
-- **Collaborator**: Organized 58 projects in [**RepoHub**](https://github.com/rohanmistry231/RepoHub) for clarity.
-
-<p align="center">
-  <a href="https://github.com/rohanmistry231/RepoHub">
-    <img src="https://img.shields.io/badge/Explore%20Projects-RepoHub-ff4500?style=for-the-badge&logo=github" alt="RepoHub"/>
-  </a>
-</p>
 
 ---
 
