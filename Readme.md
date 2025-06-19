@@ -17,7 +17,7 @@ I'm **Rohan Mistry**, a passionate innovator blending **AI/ML** and **Web Develo
 
 - 🎓 Pursuing a **Master's in Artificial Intelligence and Machine Learning**.
 - 🎨 Building **modern web apps** with React, Node.js, and great UX.
-- 🗂️ Explore my 60+ repositories at [**RepoHub**](https://github.com/rohanmistry231/RepoHub).
+- 🗂️ Explore my 130+ repositories at [**RepoHub**](https://github.com/rohanmistry231/RepoHub).
 - 🚀 Showcasing my work:
   - 🌐 [**Portfolio**](https://irohanportfolio.netlify.app)
   - 🎯 [**Udemy Tracker**](https://own-udemy-tracker.netlify.app)
@@ -30,11 +30,11 @@ I'm **Rohan Mistry**, a passionate innovator blending **AI/ML** and **Web Develo
 
 ## 🏆 Key Achievements
 
-- 🧠 **AI/ML Projects**: 15+ repos, e.g., [**Voice-Assistant**](https://github.com/rohanmistry231/Voice-Assistant) (21 stars) and [**Parkinsons-Disease-Classification**](https://github.com/rohanmistry231/Parkinsons-Disease-Classification) (18 stars).
-- 🌐 **Web Apps**: Launched [**AI-WebStudio**](https://ai-webstudio.netlify.app) and [**Udemy-Tracker**](https://own-udemy-tracker.netlify.app), each with 20+ stars.
+- 🧠 **AI/ML Projects**: 15+ repos, e.g., [**Voice-Assistant**](https://github.com/rohanmistry231/Voice-Assistant) and [**Multi-Disease-Prediction-and-Health-Recommendation-System**](https://github.com/rohanmistry231/Multi-Disease-Prediction-and-Health-Recommendation-System).
+- 🌐 **Web Apps**: Launched [**AI-WebStudio**](https://ai-webstudio.netlify.app) and [**Udemy-Tracker**](https://own-udemy-tracker.netlify.app).
 - ⚡ **Typing Speed**: 100+ WPM on MonkeyType, top 15% globally.
   - [![Monkeytype Profile](https://img.shields.io/badge/Monkeytype-FFA500?style=for-the-badge&logo=typescript&logoColor=white)](https://monkeytype.com/profile/own231)
-- 📚 **Resources**: Curated [**AI-ML-Books**](https://github.com/rohanmistry231/AI-ML-Books) and [**Mathematics-for-Machine-Learning-Books**](https://github.com/rohanmistry231/Mathematics-for-Machine-Learning-Books), each with 19 stars.
+- 📚 **Resources**: Curated [**AI-ML-Books**](https://github.com/rohanmistry231/AI-ML-Books) and [**Mathematics-for-Machine-Learning-Books**](https://github.com/rohanmistry231/Mathematics-for-Machine-Learning-Books).
 
 ---
 
