@@ -17,7 +17,7 @@ I'm **Rohan Mistry**, a passionate innovator at the intersection of **AI/ML** an
 
 - 🎓 Pursuing a **Master's in Artificial Intelligence and Machine Learning**.
 - 🌐 Crafting **modern web apps** with React, Node.js, and stellar UX.
-- 🗂️ Curating 115+ repositories in [**RepoHub**](#-my-repohub-cosmos), available in:
+- 🗂️ Curating 140+ repositories in [**RepoHub**](#-my-repohub-cosmos), available in:
   - 📑 **Tabular Format**: [RepoHub: My Coding Cosmos](https://github.com/rohanmistry231/rohanmistry231)
   - 🌐 **UI Version**: [RepoHub Website](https://repohub-coding-cosmos.netlify.app/) (Interactive UI for seamless exploration)
 - 🚀 Showcasing my work:
