@@ -1,13 +1,12 @@
-# Hi 👋, I'm Rohan Mistry
-
-## Building the Future with AI/ML and Web Development
+<h1 align="center">Hi 👋, I'm Rohan Mistry</h1>
+<h3 align="center">Building the Future with AI/ML and Web Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Web+Development+Maestro;Creative+Tech+Visionary;Ready+to+Revolutionize+Tech!" alt="Typing Animation"/>
 </p>
 
 <p align="center">  
-  <a href="mailto:rohanmistry231@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-AI%2FML%20Roles-07080?style=flat-square&logo=superpowers" alt="Hire Me"/></a>  
+  <img src="https://img.shields.io/badge/Hire%20Me-AI%2FML%20Roles-07080?style=flat-square&logo=superpowers" alt="Hire Me"/>  
 </p>
 
 ---
