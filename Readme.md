@@ -77,11 +77,10 @@ Explore my 140+ repositories through two dynamic platforms:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,sql,docker,githubactions,git,github&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,sql,githubactions,git,github&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
