@@ -138,4 +138,16 @@ Ready to collaborate on cutting-edge AI/ML or web projects? Reach out!
 
 ---
 
+## 💖 Support Me
+
+Love my work? You can now support me directly! Click the button below to become a sponsor and help me continue building innovative projects.
+
+<p align="center">
+  <a href="https://github.com/sponsors/rohanmistry231">
+    <img src="https://img.shields.io/badge/Sponsor-rohanmistry231-FF69B4?style=for-the-badge&logo=github-sponsors" alt="Sponsor Me"/>
+  </a>
+</p>
+
+---
+
 <h3 align="center">💡 Let’s create intelligent, impactful solutions together! 💡</h3>
