@@ -85,6 +85,21 @@ Explore my 140+ repositories through two dynamic platforms:
 
 ---
 
+## 📊 LeetCode Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/rohanmistry231" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/rohanmistry231?theme=dark&font=Cabin" 
+      alt="LeetCode Stats" 
+      width="460"
+      style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);"
+    />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -134,6 +149,34 @@ Ready to collaborate on cutting-edge AI/ML or web projects? Reach out!
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Connect Animation"/>
+</p>
+
+---
+
+## 💼 Freelancing Opportunities
+
+I'm **Rohan Mistry**, an aspiring **AI/ML enthusiast** and **Web Developer** offering freelance services to bring your ideas to life. With a growing portfolio of projects, I’m ready to tackle exciting challenges on Fiverr, Upwork, and Freelancer.
+
+- 🌟 **Fiverr**: Building AI tools and responsive web apps.  
+  <a href="https://www.fiverr.com/rohanmistry231"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-00B22D?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+- 🚀 **Upwork**: Crafting modern websites and AI-driven solutions.  
+  <a href="https://www.upwork.com/freelancers/~rohanmistry231"><img src="https://img.shields.io/badge/Upwork-Work%20With%20Me-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
+- 💡 **Freelancer**: Supporting tech projects with coding and innovation.  
+  <a href="https://www.freelancer.com/u/rohanmistry231"><img src="https://img.shields.io/badge/Freelancer-Connect%20Now-29B2FE?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer"/></a>
+
+**My Services**:
+- 🌐 **Web Development**: Creating user-friendly websites using React, Node.js, HTML, and CSS.
+- 🤖 **AI/ML Projects**: Developing predictive models, chatbots, or data analysis tools with Python and frameworks like Scikit-learn.
+- 📊 **Data Visualization**: Building dashboards and insights with Python or JavaScript.
+- 🛠️ **Project Support**: Assisting with coding, debugging, and project setup.
+
+**Why Choose Me?**  
+✔️ Delivered 20+ projects with a focus on quality  
+✔️ Reliable and responsive communication  
+✔️ Passionate about learning and applying new tech  
+
+<p align="center">
+  <a href="mailto:rohanmistry231@gmail.com"><img src="https://img.shields.io/badge/Email-Let’s%20Talk-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
 </p>
 
 ---
