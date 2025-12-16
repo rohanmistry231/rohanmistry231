@@ -21,7 +21,7 @@ I'm **Rohan Mistry**, a passionate innovator at the intersection of **AI/ML** an
   - 📑 **Tabular Format**: [RepoHub: My Coding Cosmos](https://github.com/rohanmistry231/rohanmistry231)
   - 🌐 **UI Version**: [RepoHub Website](https://repohub-coding-cosmos.netlify.app/) (Interactive UI for seamless exploration)
 - 🚀 Showcasing my work:
-  - 🌐 [**Portfolio**](https://irohanportfolio.netlify.app)
+  - 🌐 [**Portfolio**](https://irohanportfolio.com)
   - 🎯 [**Udemy Tracker**](https://own-udemy-tracker.netlify.app)
   - 🎨 [**AI Wallpapers**](https://own-walls-ai.netlify.app)
   - 📝 [**Medium Stories**](https://medi-hub.netlify.app)
